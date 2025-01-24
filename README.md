@@ -1,7 +1,3 @@
-Here is a basic template for a README file for the "Velocity Motors" website project:
-
----
-
 # Velocity Motors Website
 
 ## Description
@@ -48,9 +44,6 @@ Alternatively, you can host it on any web server to access the website online.
 - **Git**: For version control and collaboration.
 - **VS Code**: For development and coding.
 
-## Screenshots
-
-_(Include screenshots of the website sections, such as the homepage, models section, etc.)_
 
 ## Contributing
 
@@ -64,10 +57,6 @@ If you'd like to contribute to this project, feel free to fork the repository, c
 4. Push the changes to your forked repository (`git push origin feature-branch`).
 5. Create a pull request.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
 
-You can modify the sections as needed for your project, such as adding more specific information about additional features or any other setup instructions.
